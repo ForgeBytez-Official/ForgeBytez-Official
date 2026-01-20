@@ -1,8 +1,8 @@
 # ForgeBytez 🚀
 
-**Small indie tech studio in Chittagong, Bangladesh**
+**Small Tech Studio based in Chittagong, Bangladesh**
 
-We build clean, modern, thoughtful digital things — and we only take on projects where we can deliver something we're genuinely proud of.
+We build Clean, Modern, Thoughtful digital things — and we only take on projects where we can deliver something we're genuinely proud of.
 
 ### What we do
 - Modern web apps & websites (nice frontend + solid, fast backend)  
