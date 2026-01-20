@@ -10,7 +10,7 @@ We build clean, modern, thoughtful digital things — and we only take on projec
 - AI integration & implementation (business tools, personal projects, productivity boosts)
 
 ### Currently building
-**ZenFlowz** — open-source, lightweight Pomodoro app with cozy aesthetics and some genuinely unique features (Ice Melt timer says hi 😏).  
+**ZenFlowz** — open-source, lightweight Pomodoro app with cozy aesthetics and some genuinely unique features (Icy Stuff Coming 😏).  
 Alpha version coming very soon — we’ll keep adding cool stuff step by step.
 
 ### A bit about how we work
